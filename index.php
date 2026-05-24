@@ -13,7 +13,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
  
     <!-- CSS -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
     
   
     <style>
@@ -33,7 +33,7 @@
     <div class="card dashboard-card login-card">
         <div class="card-body">
             <div class="text-center">
-                <img src="image/emerit.png" alt="E-MERIT Logo" class="profile-image">
+                <img src="emerit.png" alt="E-MERIT Logo" class="profile-image">
                 <h1 class="login-title mt-2">E-MERIT</h1>
                 <p class="login-subtitle">Student Merit System</p>
             </div>
