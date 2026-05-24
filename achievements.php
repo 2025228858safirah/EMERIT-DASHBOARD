@@ -41,7 +41,7 @@
     </div>
     <div class="sidebar-profile border-top pt-3 mt-3">
         <div class="d-flex align-items-center gap-3">
-            <img src="image/amira.jpg" alt="Profile" class="sidebar-profile-avatar">
+            <img src="amira.jpg" alt="Profile" class="sidebar-profile-avatar">
             <div class="profile-info">
                 <div class="fw-bold">Safirah Amira</div>
                 <small class="text-muted">2025228858</small>
