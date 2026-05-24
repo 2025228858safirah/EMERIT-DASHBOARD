@@ -13,7 +13,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
  
     <!-- MAIN STYLESHEET (includes all dark mode rules) -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
     
 
 </head>
@@ -25,7 +25,7 @@
     <div class="sidebar-menu flex-grow-1">
         <div class="d-flex justify-content-between align-items-center mb-4">
             <div class="logo">
-                <img src="image/emerit.png" alt="Logo E-MERIT" class="sidebar-logo-img">
+                <img src="emerit.png" alt="Logo E-MERIT" class="sidebar-logo-img">
                 <span>E-MERIT</span>
             </div>
             <button id="closeSidebar" class="btn btn-sm btn-outline-danger d-lg-none">
@@ -80,7 +80,7 @@
                 </ul>
             </div>
             <div class="dropdown">
-                <img src="image/amira.jpg" alt="Profile" class="topbar-profile-img" data-bs-toggle="dropdown" aria-expanded="false">
+                <img src="amira.jpg" alt="Profile" class="topbar-profile-img" data-bs-toggle="dropdown" aria-expanded="false">
                 <ul class="dropdown-menu dropdown-menu-end">
                     <li><a class="dropdown-item" href="studentprofile.php">Profile</a></li>
                     <li><a class="dropdown-item" href="#" id="topbarLogoutBtn">Logout</a></li>
