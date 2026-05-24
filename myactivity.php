@@ -14,7 +14,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
  
     <!-- CSS -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 
     
 </head>
@@ -29,7 +29,7 @@
     <div class="sidebar-menu flex-grow-1">
         <div class="d-flex justify-content-between align-items-center mb-4">
             <div class="logo">
-                <img src="image/emerit.png" alt="Logo E-MERIT" class="sidebar-logo-img">
+                <img src="emerit.png" alt="Logo E-MERIT" class="sidebar-logo-img">
                 <span>E-MERIT</span>
             </div>
             <button id="closeSidebar" class="btn btn-sm btn-outline-danger d-lg-none">
@@ -67,7 +67,7 @@
 
     <div class="sidebar-profile border-top pt-3 mt-3">
         <div class="d-flex align-items-center gap-3">
-            <img src="image/amira.jpg" alt="Profile" class="sidebar-profile-avatar">
+            <img src="amira.jpg" alt="Profile" class="sidebar-profile-avatar">
             <div class="profile-info">
                 <div class="fw-bold">Safirah Amira</div>
                 <small class="text-bold">2025228858</small>
